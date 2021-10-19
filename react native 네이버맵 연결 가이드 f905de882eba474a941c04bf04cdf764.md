@@ -102,7 +102,7 @@ cd ios & pod install
     
     ```xml
     <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="com.banmoapp"
+      package="{앱 패키지 주소}"
       xmlns:tools="http://schemas.android.com/tools">
     
         <uses-permission android:name="android.permission.INTERNET" />
@@ -183,7 +183,7 @@ cd ios & pod install
             
             platform :ios, '11.0'
             
-            target 'banmoApp' do
+            target '{앱 이름}' do
               config = use_native_modules!
             
               use_react_native!(
