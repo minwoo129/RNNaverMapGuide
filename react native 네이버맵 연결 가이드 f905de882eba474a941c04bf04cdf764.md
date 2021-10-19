@@ -21,7 +21,8 @@
 
 - Products & Services → AI-Application Service → AI.NAVER API → Maps 접근
 
-![스크린샷 2021-10-18 오후 5.59.56.png](react%20native%20%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%E1%84%86%E1%85%A2%E1%86%B8%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%AF%20%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%20f905de882eba474a941c04bf04cdf764/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-10-18_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.59.56.png)
+![스크린샷 2021-10-18 오후 5 59 56](https://user-images.githubusercontent.com/73742422/137847466-42a01bdd-58ae-4453-9932-cd6ce42a43d5.png)
+)
 
 - Application 등록 선택
 
