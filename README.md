@@ -13,24 +13,24 @@
 - [ ] 클라이언트 id 설정
 - [네이버클라우드](https://www.ncloud.com/) 플랫폼 접속
 
-![스크린샷 2021-10-18 오후 5 58 11](https://github.com/minwoo129/readmeImgs/blob/master/RNNaverMapGuide/img01.png)
+![스크린샷 2021-10-18 오후 5 58 11](https://fejumvuajiwc28287693.gcdn.ntruss.com/RNNaverMapGuide/img01.png)
 
 - 로그인 및 회원가입 후 콘솔 접속
 
-![스크린샷 2021-10-18 오후 5 58 52](https://github.com/minwoo129/readmeImgs/blob/master/RNNaverMapGuide/img02.png)
+![스크린샷 2021-10-18 오후 5 58 52](https://fejumvuajiwc28287693.gcdn.ntruss.com/RNNaverMapGuide/img02.png)
 
 - Products & Services → AI-Application Service → AI.NAVER API → Maps 접근
 
-![스크린샷 2021-10-18 오후 5 59 56](https://github.com/minwoo129/readmeImgs/blob/master/RNNaverMapGuide/img03.png)
+![스크린샷 2021-10-18 오후 5 59 56](https://fejumvuajiwc28287693.gcdn.ntruss.com/RNNaverMapGuide/img03.png)
 )
 
 - Application 등록 선택
 
-![스크린샷 2021-10-18 오후 6 02 51](https://github.com/minwoo129/readmeImgs/blob/master/RNNaverMapGuide/img04.png)
+![스크린샷 2021-10-18 오후 6 02 51](https://fejumvuajiwc28287693.gcdn.ntruss.com/RNNaverMapGuide/img04.png)
 
 - Maps 전체 선택
 
-![스크린샷 2021-10-18 오후 6 04 58](https://github.com/minwoo129/readmeImgs/blob/master/RNNaverMapGuide/img05.png)
+![스크린샷 2021-10-18 오후 6 04 58](https://fejumvuajiwc28287693.gcdn.ntruss.com/RNNaverMapGuide/img05.png)
 
 - 프로젝트 안드로이드 패키지명, ios bundle ID 입력 후 저장
 - 저장 후 발급받은 인증정보(client ID, client Secret) 복사 후 기록해두기
